@@ -7,7 +7,7 @@ To utilize SQL for extracting, cleaning, and analyzing Blinkit’s grocery sales
 <a href="https://github.com/Nikhil-29-11/Blinkit-Sales-Analysis-SQL/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
 
 ## Questions
-KPI’s Requirements
+## KPI’s Requirements
 Total Sales: The overall revenue generated from all items sold.
 Average Sales: The average revenue per sale.
 Number of Items: The total count of different items sold.
