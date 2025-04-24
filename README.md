@@ -6,7 +6,7 @@ To utilize SQL for extracting, cleaning, and analyzing Blinkit’s grocery sales
 ## Dataset used
 <a href="https://github.com/Nikhil-29-11/Blinkit-Sales-Analysis-SQL/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
 
-## Questions
+# Questions
 
 ## KPI’s Requirements
 1.Total Sales: The overall revenue generated from all items sold
