@@ -34,6 +34,6 @@ Objective: Assess the geographic distribution of sales across different location
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating) broken down by different outlet types.
 
 # SQL Queries
-![vinda store]()
+![vinda store](https://github.com/Nikhil-29-11/Blinkit-Sales-Analysis-SQL/blob/main/Query%20Doc.docx)
 
 
