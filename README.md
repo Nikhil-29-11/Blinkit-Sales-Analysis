@@ -18,3 +18,12 @@ To utilize SQL for extracting, cleaning, and analyzing Blinkit’s grocery sales
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat 
 content.
+## Total Sales by Item Type:
+Objective: Identify the performance of different item types in terms of total sales.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+## Fat Content by Outlet for Total Sales:
+Objective: Compare total sales across different outlets segmented by fat content.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+## Total Sales by Outlet Establishment:
+Objective: Evaluate how the age or type of outlet establishment influences total sales.
+
