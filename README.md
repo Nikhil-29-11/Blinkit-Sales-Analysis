@@ -7,7 +7,7 @@ To utilize SQL for extracting, cleaning, and analyzing Blinkit’s grocery sales
 <a href="https://github.com/Nikhil-29-11/Blinkit-Sales-Analysis-SQL/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
 
 ## Questions
-🔹 General KPI Questions :
+## General KPI Questions :
 .What is the total revenue generated from all Blinkit sales?
 .What is the average sales amount per order?.-How many unique items or orders were recorded?
 .What is the overall average rating across all items?
