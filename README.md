@@ -10,7 +10,7 @@ To utilize SQL for extracting, cleaning, and analyzing Blinkit’s grocery sales
 
 ## KPI’s Requirements
 
--Total Sales: The overall revenue generated from all items sold.
--Average Sales: The average revenue per sale.
--Number of Items: The total count of different items sold.
--Average Rating: The average customer rating for items sold. 
+Total Sales: The overall revenue generated from all items sold.
+Average Sales: The average revenue per sale.
+Number of Items: The total count of different items sold.
+Average Rating: The average customer rating for items sold. 
