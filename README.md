@@ -26,4 +26,11 @@ Objective: Compare total sales across different outlets segmented by fat content
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 ## Total Sales by Outlet Establishment:
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
+## Percentage of Sales by Outlet Size:
+Objective: Analyze the correlation between outlet size and total sales.
+## Sales by Outlet Location:
+Objective: Assess the geographic distribution of sales across different locations.
+## All Metrics by Outlet Type:
+Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating) broken down by different outlet types.
+
 
